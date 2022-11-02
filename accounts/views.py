@@ -1,5 +1,3 @@
-import email
-from django.shortcuts import render
 from django.contrib.auth.models import User, auth
 
 from rest_framework.response import Response
